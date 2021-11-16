@@ -1,8 +1,8 @@
 # 2021_BigContest_jeju
 
-![image](https://user-images.githubusercontent.com/79079823/136738777-9cc497ec-e6e5-44b4-b24f-e15073de7a3f.png)
+![image](https://user-images.githubusercontent.com/79079823/141927772-509f9ddc-4746-422b-a74f-858d1816d90a.png)
 
-왼쪽부터 프로젝트 ppt 메인, 어플리케이션 구현 예시
+왼쪽부터 프로젝트 ppt 메인, 2차심사 발표 현장
 
 ## 💡Summary
 
